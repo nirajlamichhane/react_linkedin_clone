@@ -1,0 +1,21 @@
+.inputOption{
+    display: flex;
+    margin-top: 15px;
+    align-items: center;
+    cursor: pointer;
+    flex:0.25;
+    padding: 15px;
+    justify-content: center;
+    
+}
+
+.inputOption>p{
+    margin-left:10px ;
+}
+
+.inputOption:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    
+    
+}
